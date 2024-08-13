@@ -18,3 +18,4 @@ for n in nums:
 if n==3:
 continue
 print(n)
+mnm,m,.m,bn,m .,njmb
